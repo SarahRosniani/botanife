@@ -1,7 +1,0 @@
-{
-    "rewrites": [
-      { "source": "/upload", "destination": "/upload" },
-      { "source": "/blog", "destination": "/blog" }
-    ]
-  }
-  
